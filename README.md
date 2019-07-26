@@ -8,6 +8,8 @@ The enclosure consists of 2 parts. No screws needed.
 Requirements:
 * 3D printer 
 * Filament of your choice
+* Tumble wheels (aliexpress)
+* Resstors, 2 Banana-Jacks, Solder, Soldering Iron.
 
 ## View
 ![Example Case](iso.jpg)
